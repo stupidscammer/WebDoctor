@@ -59,3 +59,4 @@ many of the algorithms can be found in the [wiki][explanation].
 [lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 
+# Web-Doctor
